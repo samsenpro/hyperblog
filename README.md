@@ -1,2 +1,2 @@
 # hyperblog
-blog curso de git platzi
+## este es un blog creado para realizar el seguimiento del curso de git en platzi
